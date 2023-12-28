@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DIO\\BootAvanadeDecolaTech2024\\dio_ExemploExplorando\\ExemploExplorando.csproj": {}
+    "C:\\Users\\brunoandradel.a\\Desktop\\C#Fundamentos\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "E:\\DIO\\BootAvanadeDecolaTech2024\\dio_ExemploExplorando\\ExemploExplorando.csproj": {
+    "C:\\Users\\brunoandradel.a\\Desktop\\C#Fundamentos\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DIO\\BootAvanadeDecolaTech2024\\dio_ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "C:\\Users\\brunoandradel.a\\Desktop\\C#Fundamentos\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "E:\\DIO\\BootAvanadeDecolaTech2024\\dio_ExemploExplorando\\ExemploExplorando.csproj",
-        "packagesPath": "C:\\Users\\55819\\.nuget\\packages\\",
-        "outputPath": "E:\\DIO\\BootAvanadeDecolaTech2024\\dio_ExemploExplorando\\obj\\",
+        "projectPath": "C:\\Users\\brunoandradel.a\\Desktop\\C#Fundamentos\\ExemploExplorando\\ExemploExplorando.csproj",
+        "packagesPath": "C:\\Users\\brunoandradel.a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brunoandradel.a\\Desktop\\C#Fundamentos\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55819\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\brunoandradel.a\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
